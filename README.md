@@ -96,9 +96,6 @@ COMMENT = 'comment' # Комментарий
 ### Интеграция с Allure TestOps
 #### <a target="_blank" href="https://allure.autotests.cloud/project/3909/dashboards">Ссылка на проект</a>
 
-#### <a target="_blank" href="https://allure.autotests.cloud/project/3909/dashboards">Дашборд с общими показателями тестовых прогонов</a>
-
-![allure_test_ops_dashboards](petstore_api_test_framework/pictures/allure_testops_dashboards.png)
 
 #### <a target="_blank" href="https://allure.autotests.cloud/project/3909/launches">История запуска тестовых наборов</a>
 

@@ -73,7 +73,6 @@ COMMENT = 'comment' # Комментарий
 4. В поле "COMMENT" ввести комментарий
 5. Нажать "Build"
 
-![jenkins_build](petstore_api_test_framework/pictures/jenkins_build.png)
 
 ----
 

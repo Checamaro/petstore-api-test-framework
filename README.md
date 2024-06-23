@@ -88,8 +88,8 @@ COMMENT = 'comment' # Комментарий
 #### <a target="_blank" href="https://jenkins.autotests.cloud/job/Petstore-API-Auto-Tests/10/allure/#graph">Графики</a>
 
 
-![allure_reports_graphs](petstore_api_test_framework/pictures/alluere_reports_graphs_1.png)
-![allure_reports_graphs](petstore_api_test_framework/pictures/alluere_reports_graphs_2.png)
+![allure_reports_graphs](petstore_api_test_framework/pictures/allure_reports_graphs.png)
+
 
 ----
 

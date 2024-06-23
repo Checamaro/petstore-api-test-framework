@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef6c4b57-9bb5-4196-9c27-f47429e11b15" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qa_guru_pet_shop_api_tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_create_with_input_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_create_with_input_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_get_by_username.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_logout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/basemodels/user/user_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/alluere_reports_graphs_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/alluere_reports_graphs_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_report_overview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_reports_suites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_testops_dashboards.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_testops_launches.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_testops_manual_test_run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_testops_suites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/allure_testops_test_attachments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/AllureTestOps.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/Allure_Report.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/github-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/jenkins-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/jira-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/mimesis.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/pycharm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/pydantic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/pytest-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/python-original.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/requests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/icons/tg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/jenkins_build.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/jenkins_project_main_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/jira_project.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/swagger_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/pictures/telegram_allert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/allure_attach.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/random_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/create_user_with_input_array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/create_user_with_input_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/get_remote_user_by_username.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/get_user_by_username.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/logout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petstore_api_test_framework/utils/user_api/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/test_create_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/test_delete_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/test_get_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/test_update_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/user/test_user_session.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2iHnT8XOJxzITJtTXrIcGH6TKZV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/checa/PycharmProjects/qa_guru_pet_shop_api_tests"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\checa\PycharmProjects\qa_guru_pet_shop_api_tests" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef6c4b57-9bb5-4196-9c27-f47429e11b15" name="Changes" comment="" />
+      <created>1719156375321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719156375321</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -15,7 +15,6 @@
 * Сборка проекта в Jenkins
 * Отчеты Allure Report
 * Интеграция с Allure TestOps
-* Автоматизация отчетности о тестовых прогонах и тест-кейсах в Jira
 * Генерация тестовых данных Mimesis
 
 ### Список проверок
@@ -55,17 +54,17 @@ allure serve build/allure-results
 ----
 
 ### Проект в Jenkins
-> <a target="_blank" href="https://jenkins.autotests.cloud/job/Petstore-API-Auto-Tests/">Ссылка</a>
+> <a target="_blank" href="https://jenkins.autotests.cloud/job/petstore_api_tests_project/">Ссылка</a>
 
 #### Параметры сборки
 > [!NOTE]
 > Параметры сборки не обязательны
 ```python
-ENVIRONMENT = ['STAGE', 'PREPROD', 'PROD'] # Окружение
-COMMENT = 'some comment' # Комментарий
+ENVIRONMENT = ['DEV', 'PROD'] # Окружение
+COMMENT = 'comment' # Комментарий
 ```
 #### Запуск автотестов в Jenkins
-1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/Petstore-API-Auto-Tests/">проект</a>
+1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/petstore_api_tests_project/">проект</a>
 
 ![jenkins project main page](petstore_api_test_framework/pictures/jenkins_project_main_page.png)
 
@@ -113,20 +112,7 @@ COMMENT = 'some comment' # Комментарий
 
 ![allure_testops_suites](petstore_api_test_framework/pictures/allure_testops_test_attachments.png)
 
-#### <a target="_blank" href="https://allure.autotests.cloud/project/3909/test-cases?treeId=0">Ручной запуск авто теста из Allure TestOps</a>
 
-![allure_testops_suites](petstore_api_test_framework/pictures/allure_testops_manual_test_run.png)
-
-1. Нажать на чек-бокс необходимого тест кейса
-2. Нажать на "Bulk actions"
-3. Нажать на "Run"
-
-----
-
-### Интеграция с Jira
-> <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1020">Ссылка на проект</a>
-
-![jira_project](petstore_api_test_framework/pictures/jira_project.png)
 
 ----
 

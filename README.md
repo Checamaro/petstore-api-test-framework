@@ -1,7 +1,7 @@
 # Фреймворк для автоматизации тестирования API Petstore
 > <a target="_blank" href="https://petstore.swagger.io/">petstore.swagger.io</a>
 
-![main page screenshot](/petstore_api_test_framework/pictures/swagger_page.png)
+![main page screenshot](/pictures/swagger_page.png)
 
 ----
 

@@ -109,7 +109,12 @@ COMMENT = 'comment' # Комментарий
 ![allure_testops_suites](pictures/allure_testops_test_attachments.png)
 
 
+----
 
+### Интеграция с Jira
+> <a target="_blank" href="https://jira.autotests.cloud/browse/HOMEWORK-1289">Ссылка на проект</a>
+
+![jira_project](pictures/jira_project.png)
 ----
 
 ### Оповещения в Telegram

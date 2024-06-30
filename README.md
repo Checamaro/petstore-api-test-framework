@@ -1,7 +1,7 @@
 # Фреймворк для автоматизации тестирования API Petstore
 > <a target="_blank" href="https://petstore.swagger.io/">petstore.swagger.io</a>
 
-![main page screenshot](/petstore_api_test_framework/pictures/swagger_page.png)
+![main page screenshot](/pictures/swagger_page.png)
 
 ----
 
@@ -32,7 +32,7 @@
 
 ### Используемый стэк
 
-<img title="Python" src="petstore_api_test_framework/pictures/icons/python-original.svg" height="40" width="40"/> <img title="Pytest" src="petstore_api_test_framework/pictures/icons/pytest-original.svg" height="40" width="40"/> <img title="Jira" src="petstore_api_test_framework/pictures/icons/jira-original.svg" height="40" width="40"/> <img title="Allure Report" src="petstore_api_test_framework/pictures/icons/Allure_Report.png" height="40" width="40"/> <img title="Allure TestOps" src="petstore_api_test_framework/pictures/icons/AllureTestOps.png" height="40" width="40"/> <img title="GitHub" src="petstore_api_test_framework/pictures/icons/github-original.svg" height="40" width="40"/> <img title="Pycharm" src="petstore_api_test_framework/pictures/icons/pycharm.png" height="40" width="40"/> <img title="Telegram" src="petstore_api_test_framework/pictures/icons/tg.png" height="40" width="40"/> <img title="Jenkins" src="petstore_api_test_framework/pictures/icons/jenkins-original.svg" height="40" width="40"/> <img title="requests" src="petstore_api_test_framework/pictures/icons/requests.png" height="40" width="40"/> <img title="pydantic" src="petstore_api_test_framework/pictures/icons/pydantic.png" height="40" width="40"/> <img title="mimesis" src="petstore_api_test_framework/pictures/icons/mimesis.svg" height="40" width="40"/>
+<img title="Python" src="pictures/icons/python-original.svg" height="40" width="40"/> <img title="Pytest" src="pictures/icons/pytest-original.svg" height="40" width="40"/> <img title="Jira" src="pictures/icons/jira-original.svg" height="40" width="40"/> <img title="Allure Report" src="pictures/icons/Allure_Report.png" height="40" width="40"/> <img title="Allure TestOps" src="/pictures/icons/AllureTestOps.png" height="40" width="40"/> <img title="GitHub" src="pictures/icons/github-original.svg" height="40" width="40"/> <img title="Pycharm" src="pictures/icons/pycharm.png" height="40" width="40"/> <img title="Telegram" src="pictures/icons/tg.png" height="40" width="40"/> <img title="Jenkins" src="pictures/icons/jenkins-original.svg" height="40" width="40"/> <img title="requests" src="pictures/icons/requests.png" height="40" width="40"/> <img title="pydantic" src="pictures/icons/pydantic.png" height="40" width="40"/> <img title="mimesis" src="pictures/icons/mimesis.svg" height="40" width="40"/>
 
 ----
 
@@ -66,7 +66,7 @@ COMMENT = 'comment' # Комментарий
 #### Запуск автотестов в Jenkins
 1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/petstore_api_tests_project/">проект</a>
 
-![jenkins project main page](petstore_api_test_framework/pictures/jenkins_project_main_page.png)
+![jenkins project main page](pictures/jenkins_project_main_page.png)
 
 2. Нажать "Build with Parameters"
 3. Из списка "ENVIRONMENT" выбрать любое окружение
@@ -78,16 +78,16 @@ COMMENT = 'comment' # Комментарий
 
 ### Allure отчет
 #### <a target="_blank" href="https://jenkins.autotests.cloud/job/Petstore-API-Auto-Tests/10/allure/#">Общие результаты</a>
-![allure_report_overview](petstore_api_test_framework/pictures/allure_report_overview.png)
+![allure_report_overview](pictures/allure_report_overview.png)
 
 #### <a target="_blank" href="https://jenkins.autotests.cloud/job/Petstore-API-Auto-Tests/10/allure/#suites/94c8c4ac5fc4c534c54cd08189c43b55/9ff66467c660d9c7/">Результаты прохождения теста</a>
 
-![allure_reports_behaviors](petstore_api_test_framework/pictures/allure_reports_suites.png)
+![allure_reports_behaviors](pictures/allure_reports_suites.png)
 
 #### <a target="_blank" href="https://jenkins.autotests.cloud/job/Petstore-API-Auto-Tests/10/allure/#graph">Графики</a>
 
 
-![allure_reports_graphs](petstore_api_test_framework/pictures/allure_reports_graphs.png)
+![allure_reports_graphs](pictures/allure_reports_graphs.png)
 
 
 ----
@@ -98,21 +98,21 @@ COMMENT = 'comment' # Комментарий
 
 #### <a target="_blank" href="https://allure.autotests.cloud/project/3909/launches">История запуска тестовых наборов</a>
 
-![allure_testops_launches](petstore_api_test_framework/pictures/allure_testops_launches.png)
+![allure_testops_launches](pictures/allure_testops_launches.png)
 
 #### <a target="_blank" href="https://allure.autotests.cloud/project/3909/test-cases/28499?treeId=0">Тест кейсы</a>
 
-![allure_testops_suites](petstore_api_test_framework/pictures/allure_testops_suites.png)
+![allure_testops_suites](pictures/allure_testops_suites.png)
 
 #### <a target="_blank" href="https://allure.autotests.cloud/launch/33574/tree/551304/attachments?treeId=0">Тестовые артефакты</a>
 
-![allure_testops_suites](petstore_api_test_framework/pictures/allure_testops_test_attachments.png)
+![allure_testops_suites](pictures/allure_testops_test_attachments.png)
 
 
 
 ----
 
 ### Оповещения в Telegram
-![telegram_allert](petstore_api_test_framework/pictures/telegram_allert.png)
+![telegram_allert](pictures/telegram_allert.png)
 
 ----
